@@ -1,0 +1,53 @@
+#page-wrapper {
+	position: relative;
+}
+
+
+.logo{
+	display: inline-block;
+
+}
+
+     ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: inline-block;
+    float: right;
+}
+
+li {
+    float: right;
+}
+
+li {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+@media only screen and (max-width: 750px) {
+    ul li a {
+        color: red;
+        background-color: black;
+    }
+}
+ 
+  #Pricing{
+	height: 300px;
+	width: 300px;
+	position: relative;
+	margin: auto;
+    margin-top: 100px;
+
+}
+
+
+#Products{
+	height: 300px;
+	width: 300px;
+	position: relative;
+	margin: auto;
+	margin-bottom: 300px;
+}
